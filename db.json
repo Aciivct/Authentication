@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": "Admin",
+      "name": "Ciril Victor A",
+      "password": "Admin@123",
+      "email": "ciriltyson2001@gmail.com",
+      "gender": "male",
+      "role": "Admin",
+      "isActive": true
+    },
+    {
+      "id": "aciivct",
+      "name": "Ciril Victor A",
+      "password": "Ciril@123",
+      "email": "ciriltyson2001@gmail.com",
+      "gender": "male",
+      "role": "User",
+      "isActive": true
+    },
+    {
+      "id": "User A",
+      "name": "Ciril Victor A",
+      "password": "User@123A",
+      "email": "ciriltyson2001@gmail.com",
+      "gender": "male",
+      "role": "User",
+      "isActive": true
+    }
+  ],
+  "role": [
+    {
+      "id": "Admin",
+      "name": "Admin"
+    },
+    {
+      "id": "User",
+      "name": "User"
+    }
+  ]
+}
